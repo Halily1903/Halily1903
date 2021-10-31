@@ -1,1 +1,1 @@
-<img src="https://i.hizliresim.com/cmv5xwz.jpg" width=100%;>
+<img src="https://i.hizliresim.com/4u25w12.jpg" width=100%;>
