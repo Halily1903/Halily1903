@@ -13,6 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halily1903&show_icons=true&theme=radical) 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=halily1903&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=halily1903&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halily1903&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
