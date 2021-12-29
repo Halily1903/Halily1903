@@ -12,10 +12,4 @@
 
 ## Github Stats
 
-<a href="https://github.com/halily1903">
-<img width="15" height="1">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=halily1903&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="50" height="1">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=halily1903&layout=compact&langs_count=10&theme=algolia"/>
-<img width="15" height="1">
-</a>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=halily1903&layout=compact&langs_count=10&theme=algolia)
