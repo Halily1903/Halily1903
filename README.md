@@ -10,6 +10,12 @@
 <img height="30" src="https://serhatalpaslan.com/wp-content/uploads/2021/08/java-script-gorsel-3.jpg">
 <img height="30" src="https://uicard.io/img/blog/bootstrap-5.png">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halily1903&show_icons=true&theme=radical) 
+## Github Stats
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=halily1903&layout=compact&langs_count=10&theme=algolia)
+<a href="https://github.com/halily1903">
+<img width="15" height="1">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=halily1903&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50" height="1">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=halily1903&layout=compact&langs_count=10&theme=algolia"/>
+<img width="15" height="1">
+</a>
